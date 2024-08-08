@@ -53,8 +53,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - C:\Users\SENA\Documents\GitHub\proyecto2\estanco_currambero_app\lib\assets\imagen_fondo.png
-    - C:\Users\SENA\Documents\GitHub\proyecto2\estanco_currambero_app\lib\assets\logo.png
+    - lib\assets\imagen_fondo.png
+    - lib\assets\logo.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
